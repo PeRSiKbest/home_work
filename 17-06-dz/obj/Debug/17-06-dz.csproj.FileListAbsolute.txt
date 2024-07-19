@@ -1,0 +1,7 @@
+C:\Users\ctask\source\repos\PROJECTS C#\17-06\bin\Debug\17-06.exe.config
+C:\Users\ctask\source\repos\PROJECTS C#\17-06\bin\Debug\17-06.exe
+C:\Users\ctask\source\repos\PROJECTS C#\17-06\bin\Debug\17-06.pdb
+C:\Users\ctask\source\repos\PROJECTS C#\17-06\obj\Debug\17-06-dz.csproj.AssemblyReference.cache
+C:\Users\ctask\source\repos\PROJECTS C#\17-06\obj\Debug\17-06-dz.csproj.CoreCompileInputs.cache
+C:\Users\ctask\source\repos\PROJECTS C#\17-06\obj\Debug\17-06.exe
+C:\Users\ctask\source\repos\PROJECTS C#\17-06\obj\Debug\17-06.pdb
