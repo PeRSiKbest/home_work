@@ -1,0 +1,7 @@
+C:\Users\ctask\source\repos\PROJECTS C#\01-07-dz\bin\Debug\01-07-dz.exe.config
+C:\Users\ctask\source\repos\PROJECTS C#\01-07-dz\bin\Debug\01-07-dz.exe
+C:\Users\ctask\source\repos\PROJECTS C#\01-07-dz\bin\Debug\01-07-dz.pdb
+C:\Users\ctask\source\repos\PROJECTS C#\01-07-dz\obj\Debug\01-07-dz.csproj.AssemblyReference.cache
+C:\Users\ctask\source\repos\PROJECTS C#\01-07-dz\obj\Debug\01-07-dz.csproj.CoreCompileInputs.cache
+C:\Users\ctask\source\repos\PROJECTS C#\01-07-dz\obj\Debug\01-07-dz.exe
+C:\Users\ctask\source\repos\PROJECTS C#\01-07-dz\obj\Debug\01-07-dz.pdb
